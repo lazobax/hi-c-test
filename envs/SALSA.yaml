@@ -1,0 +1,19 @@
+name: SALSA
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2.7
+  - boost
+  - networkx<1.2
+  - gcc
+  - gxx
+  - make
+  - cmake
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - setuptools
+  - cython

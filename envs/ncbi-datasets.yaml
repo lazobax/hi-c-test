@@ -1,0 +1,8 @@
+name: ncbi-datasets
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - ncbi-datasets-cli
